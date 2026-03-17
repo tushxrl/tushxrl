@@ -1,8 +1,11 @@
-<h1 align="center">hey, i'm <a href="https://github.com/tushxrl">tushar</a> 👋</h1>
+hey there! 👋
 
-<p align="center">
-  🎓 cs undergrad &nbsp;|&nbsp; typescript · python · react <br/>
-  obsessed with building things that actually work <br/>
-  currently: absorbing the internet & shipping side projects <br/>
-  → open to internship opportunities
-</p>
+i'm [tushar](https://github.com/tushxrl), a cs undergrad based in pune.
+
+🎓 cs undergrad | typescript · python · react
+
+obsessed with learning and constantly improving
+
+currently: absorbing the internet & shipping side projects.
+
+→ open to internship opportunities — [let's connect](work.tushar.official@gmail.com)
